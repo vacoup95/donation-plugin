@@ -1,0 +1,6 @@
+config-version: 1
+server: "factions"
+api:
+  base: "" #base url
+  poll-interval: 60 # in seconds
+  pass-key: "" #pass key used by api

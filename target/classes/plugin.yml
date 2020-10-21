@@ -1,0 +1,11 @@
+name: Donator
+version: "1.2"
+author: Arnold
+main: com.minecraftercity.donator.Donator
+softdepend: [HolographicDisplays]
+api-version: 1.16
+commands:
+  dono:
+    description: Create TOP 10 Hologram for donators
+    usage: /dono help
+    permission: dono.admin
