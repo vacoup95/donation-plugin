@@ -1,8 +1,0 @@
-com\minecraftercity\donator\holograms\Commands\Main.class
-com\minecraftercity\donator\holograms\Commands\Rebuild.class
-com\minecraftercity\donator\holograms\HologramMaker.class
-com\minecraftercity\donator\Config.class
-com\minecraftercity\donator\holograms\Commands\Create.class
-com\minecraftercity\donator\holograms\Commands\Move.class
-com\minecraftercity\donator\holograms\Commands\Remove.class
-com\minecraftercity\donator\RunnableDonator.class

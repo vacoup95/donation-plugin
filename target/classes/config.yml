@@ -1,6 +1,0 @@
-config-version: 1
-server: "factions"
-api:
-  base: https://minecraftercity.com/api/v1/
-  poll-interval: 60 # in seconds
-  pass-key: "A8CFhv872tdNQKpv5CXUDBZsVNQr"
