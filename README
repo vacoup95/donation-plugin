@@ -1,0 +1,2 @@
+Simple donation plugin for private usage, made to handle payments from our web-api.
+It works by polling an API and checking for new donations.
